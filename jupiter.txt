@@ -1,1 +1,7 @@
+<<<<<<< HEAD
  just another space-rock
+=======
+Jupiter is too big of a planet.
+Definitly too big for me too.
+
+>>>>>>> julien/master
